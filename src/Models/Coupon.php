@@ -9,5 +9,5 @@ class Coupon extends BaseModel
 {
     use QueryBuilderTrait;
 
-    protected $endpoint = 'coupon';
+    protected $endpoint = 'coupons';
 }
